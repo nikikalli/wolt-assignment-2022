@@ -1,0 +1,12 @@
+[
+  {
+    "pk": 1,
+    "model": "calc.calc",
+    "fields": {
+      "cart_value": 0,
+      "delivery_distance": 0,
+      "number_of_items": 0,
+      "time": "0001-01-01T00:00:00"
+    }
+  }
+]
